@@ -8,6 +8,12 @@ old_version 폴더
 Text_Analytixs
 * 텍스트 분석
 
+Deep learning
+* 딥러닝 기초
+
+CNN
+* 이미지 처리
+
 pip freeze > requirements.txt 해서 requirements.txt에 모듈 옮겨놓음
 
 1. pip install -r requirements.txt
